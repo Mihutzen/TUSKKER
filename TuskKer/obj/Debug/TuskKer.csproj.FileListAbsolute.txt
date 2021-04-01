@@ -1,0 +1,342 @@
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\TuskKer.dll.config
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\TuskKer.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\TuskKer.pdb
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\csc.exe
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\csc.exe.config
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\csc.rsp
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\csi.exe
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\csi.exe.config
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\csi.rsp
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.AppContext.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Console.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.IO.Compression.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Net.Http.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.ValueTuple.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\vbc.exe
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\vbc.exe.config
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\vbc.rsp
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\VBCSCompiler.exe
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\czupp\Desktop\NOU2\TuskKer\obj\Debug\TuskKer.csprojAssemblyReference.cache
+C:\Users\czupp\Desktop\NOU2\TuskKer\obj\Debug\TuskKer.csproj.CopyComplete
+C:\Users\czupp\Desktop\NOU2\TuskKer\obj\Debug\TuskKer.dll
+C:\Users\czupp\Desktop\NOU2\TuskKer\obj\Debug\TuskKer.pdb
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\TuskKer.dll.config
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\TuskKer.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\TuskKer.pdb
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\csc.exe
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\csc.exe.config
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\csc.rsp
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\csi.exe
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\csi.exe.config
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\csi.rsp
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.AppContext.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Console.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Net.Http.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.ValueTuple.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\vbc.exe
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\vbc.exe.config
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\vbc.rsp
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\czupp\Desktop\TuskKer\TuskKer\obj\Debug\TuskKer.csprojAssemblyReference.cache
+C:\Users\czupp\Desktop\TuskKer\TuskKer\obj\Debug\TuskKer.csproj.CopyComplete
+C:\Users\czupp\Desktop\TuskKer\TuskKer\obj\Debug\TuskKer.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\obj\Debug\TuskKer.pdb
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.Helpers.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.Mvc.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.Razor.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.WebPages.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.dll
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.Helpers.xml
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.Mvc.xml
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.Razor.xml
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.WebPages.xml
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\czupp\Desktop\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\TuskKer.dll.config
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\TuskKer.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\TuskKer.pdb
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\csc.exe
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\csc.exe.config
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\csc.rsp
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\csi.exe
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\csi.exe.config
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\csi.rsp
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.AppContext.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Console.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Net.Http.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.ValueTuple.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\vbc.exe
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\vbc.exe.config
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\vbc.rsp
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.Helpers.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.Mvc.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.Razor.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.Helpers.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.Mvc.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.Razor.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.csprojAssemblyReference.cache
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.csproj.CopyComplete
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.dll
+C:\Users\czupp\Desktop\PC - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.pdb
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\TuskKer.dll.config
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\TuskKer.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\TuskKer.pdb
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\csc.exe
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\csc.exe.config
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\csc.rsp
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\csi.exe
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\csi.exe.config
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\csi.rsp
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.AppContext.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Console.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Net.Http.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.ValueTuple.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\vbc.exe
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\vbc.exe.config
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\vbc.rsp
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.Helpers.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.Mvc.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.Razor.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.WebPages.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.Helpers.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.Mvc.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.Razor.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.WebPages.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\obj\Debug\TuskKer.csprojAssemblyReference.cache
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\obj\Debug\TuskKer.csproj.CopyComplete
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\obj\Debug\TuskKer.dll
+C:\Users\czupp\Desktop\PC - Copy - Copy (3)\TuskKer\TuskKer\obj\Debug\TuskKer.pdb
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\TuskKer.dll.config
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\TuskKer.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\TuskKer.pdb
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\csc.exe
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\csc.exe.config
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\csc.rsp
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\csi.exe
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\csi.exe.config
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\csi.rsp
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.AppContext.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Console.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Net.Http.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.ValueTuple.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\vbc.exe
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\vbc.exe.config
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\vbc.rsp
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.Helpers.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.Mvc.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.Razor.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.Helpers.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.Mvc.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.Razor.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\System.Web.WebPages.Razor.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.csprojAssemblyReference.cache
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.csproj.CopyComplete
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.dll
+C:\Users\czupp\Desktop\PC Bun - Copy\TuskKer\TuskKer\obj\Debug\TuskKer.pdb
